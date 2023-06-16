@@ -1,9 +1,22 @@
 # 💫 About Me:
-Physicist and web developer<br>Interested in Data Science and Game Development
+Physicist and web developer<br>Interested in Data Science and Game Development<br>A passion for dancing, music and science
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-meneses-arismendi) 
+<!--
+<a href="https://alexandermeneses.com/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="website" src="https://img.shields.io/badge/website-%23323330.svg?&style=for-the-badge&logo=Zulip&logoColor=white"/>
+</a>
+-->
+<a href="mailto:alexanderdev.contact@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~014888e85a43668d63" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="upwork" src="https://img.shields.io/badge/upwork-%231877f2.svg?&style=for-the-badge&logo=upwork&logoColor=white&color=17A700"/>
+</a>
+<a href="https://www.linkedin.com/in/alexander-meneses-arismendi/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
+</a>
 
 # 💻 Tech Stack:
 ## Languages
