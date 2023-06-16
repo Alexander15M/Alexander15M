@@ -1,5 +1,5 @@
 # 💫 About Me:
-Physicist and web developer<br>Interested in Data Science and Game Development<br>A passion for dancing, music and science
+Physicist and web developer<br>Interested in Data Science and Game Development<br>Passionate for dancing, music and science
 
 
 ## 🌐 Socials:
